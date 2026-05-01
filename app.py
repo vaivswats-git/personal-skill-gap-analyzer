@@ -77,9 +77,16 @@ if user_input:
             if career in courses_data:
                 st.markdown("###  Free Skill Gap Learning Resources")
 
+                shown_courses = set()
+
                 for missing_skill in info["missing_skills"]:
                     for course_skill, course_details in courses_data[career].items():
-                        if missing_skill.lower() in course_skill.lower():
+                        if (
+                            missing_skill.lower() in course_skill.lower()
+                            and course_skill not in shown_courses
+                        ):
+                            shown_courses.add(course_skill)
+
                             st.write(f"**{course_skill}**")
                             st.markdown(
                                 f"[{course_details['course_name']}]({course_details['link']})"
@@ -99,33 +106,54 @@ if mock_tests_data:
         list(mock_tests_data.keys())
     )
 
-    if st.button("Start Mock Test"):
-        questions = mock_tests_data[test_category]
+    questions = mock_tests_data[test_category]
 
+    user_answers = []
+
+    for i, q in enumerate(questions):
+        st.subheader(f"Q{i+1}: {q['question']}")
+
+        user_answer = st.radio(
+            f"Choose answer for Q{i+1}",
+            q["options"],
+            index=None,
+            key=f"q_{test_category}_{i}"
+        )
+
+        user_answers.append(user_answer)
+
+    if st.button("Submit Test"):
         score = 0
 
         for i, q in enumerate(questions):
-            st.subheader(f"Q{i+1}: {q['question']}")
-
-            user_answer = st.radio(
-                f"Choose answer for Q{i+1}",
-                q["options"],
-                key=f"q_{i}"
-            )
-
-            if user_answer == q["answer"]:
+            if user_answers[i] == q["answer"]:
                 score += 1
 
-        if st.button("Submit Test"):
-            st.success(f"Your Score: {score}/{len(questions)}")
+        total_questions = len(questions)
+        percentage = (score / total_questions) * 100
 
-            if score >= 8:
-                st.balloons()
-                st.success("Excellent! You're highly prepared.")
-            elif score >= 5:
-                st.info("Good job! Keep improving.")
-            else:
-                st.warning("Needs improvement. Focus on skill-building.")
+        st.success(f" Your Score: {score}/{total_questions} ({percentage:.1f}%)")
+
+        if percentage >= 80:
+            st.balloons()
+            st.success("Excellent! You're highly prepared.")
+        elif percentage >= 50:
+            st.info("Good job! Keep improving.")
+        else:
+            st.warning("Needs improvement. Focus on skill-building.")
+
+        with st.expander(" Review Answers"):
+            for i, q in enumerate(questions):
+                st.write(f"**Q{i+1}: {q['question']}**")
+                st.write(f"Your Answer: {user_answers[i]}")
+                st.write(f"Correct Answer: {q['answer']}")
+
+                if user_answers[i] == q["answer"]:
+                    st.success("Correct ")
+                else:
+                    st.error("Incorrect ")
+
+                st.markdown("---")
 
 # ---------------- RANDOM CAREER EXPLORER ----------------
 st.header(" Explore Random Career Paths")
@@ -134,8 +162,8 @@ if st.button("Suggest Random Careers"):
     random_careers = random.sample(list(jobs_data.keys()), min(5, len(jobs_data)))
 
     for career in random_careers:
-        st.write(f" {career}")
+        st.write(f"✨ {career}")
 
 # ---------------- FOOTER ----------------
 st.markdown("---")
-st.caption("Built with ❤️ using Streamlit | Career Recommendation System")
+st.caption("Built using Streamlit | Career Recommendation System")
