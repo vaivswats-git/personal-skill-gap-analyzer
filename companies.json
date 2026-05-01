@@ -1,0 +1,194 @@
+{
+  "Software Engineering": [
+    {
+      "name": "TCS",
+      "level": "Mass Hiring",
+      "availability_in_india": true,
+      "roles": ["Assistant System Engineer", "Software Developer", "Support Engineer"],
+      "required_skills": ["Java", "Python", "SQL", "Aptitude", "Communication", "Basic Programming"],
+      "website": "https://www.tcs.com/careers"
+    },
+    {
+      "name": "Infosys",
+      "level": "Mass Hiring",
+      "availability_in_india": true,
+      "roles": ["System Engineer", "Software Developer", "Data Analyst"],
+      "required_skills": ["Java", "Python", "SQL", "Communication", "Aptitude"],
+      "website": "https://careers.infosys.com"
+    },
+    {
+      "name": "Wipro",
+      "level": "Mass Hiring",
+      "availability_in_india": true,
+      "roles": ["Project Engineer", "Software Developer", "Support Analyst"],
+      "required_skills": ["Java", "Python", "SQL", "Communication", "Basic Coding"],
+      "website": "https://careers.wipro.com"
+    },
+    {
+      "name": "Accenture India",
+      "level": "Mass Hiring",
+      "availability_in_india": true,
+      "roles": ["Associate Software Engineer", "Cloud Associate", "Data Analyst"],
+      "required_skills": ["Java", "Python", "SQL", "Cloud", "Communication"],
+      "website": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "name": "Capgemini India",
+      "level": "Mass Hiring",
+      "availability_in_india": true,
+      "roles": ["Analyst", "Software Engineer", "Consultant"],
+      "required_skills": ["Java", "SQL", "Cloud Basics", "Communication"],
+      "website": "https://www.capgemini.com/in-en/careers"
+    },
+    {
+      "name": "Cognizant",
+      "level": "Mass Hiring",
+      "availability_in_india": true,
+      "roles": ["Programmer Analyst", "QA Engineer", "Software Developer"],
+      "required_skills": ["Java", "Python", "SQL", "Testing", "Communication"],
+      "website": "https://careers.cognizant.com/in/en"
+    },
+    {
+      "name": "HCL Technologies",
+      "level": "Mass Hiring",
+      "availability_in_india": true,
+      "roles": ["Software Engineer", "Infrastructure Engineer", "Analyst"],
+      "required_skills": ["Java", "Python", "Networking", "Cloud Basics", "Communication"],
+      "website": "https://www.hcltech.com/careers"
+    },
+    {
+      "name": "Tech Mahindra",
+      "level": "Mass Hiring",
+      "availability_in_india": true,
+      "roles": ["Software Engineer", "Support Engineer", "Developer"],
+      "required_skills": ["Java", "Python", "SQL", "Communication", "Aptitude"],
+      "website": "https://careers.techmahindra.com"
+    },
+    {
+      "name": "LTIMindtree",
+      "level": "Mass Hiring",
+      "availability_in_india": true,
+      "roles": ["Software Engineer", "Analyst", "Consultant"],
+      "required_skills": ["Java", "Python", "Cloud", "SQL", "Communication"],
+      "website": "https://www.ltimindtree.com/careers"
+    },
+    {
+      "name": "Mphasis",
+      "level": "Mass Hiring",
+      "availability_in_india": true,
+      "roles": ["Developer", "Analyst", "Software Engineer"],
+      "required_skills": ["Java", "Python", "SQL", "Problem Solving"],
+      "website": "https://careers.mphasis.com"
+    }
+  ],
+
+  "Product & Top Tech Companies": [
+    {
+      "name": "Microsoft India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Software Engineer", "Cloud Engineer", "AI Engineer"],
+      "required_skills": ["Python", "Java", "C++", "DSA", "System Design", "Cloud", "SQL"],
+      "website": "https://careers.microsoft.com"
+    },
+    {
+      "name": "Google India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Software Engineer", "ML Engineer", "Product Engineer"],
+      "required_skills": ["Python", "Java", "C++", "Algorithms", "Machine Learning", "System Design"],
+      "website": "https://careers.google.com"
+    },
+    {
+      "name": "Amazon India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["SDE", "Cloud Engineer", "Data Engineer"],
+      "required_skills": ["Java", "Python", "AWS", "DSA", "SQL"],
+      "website": "https://www.amazon.jobs"
+    },
+    {
+      "name": "Oracle India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Software Developer", "Database Engineer", "Cloud Engineer"],
+      "required_skills": ["Java", "SQL", "Cloud", "Python", "Database Management"],
+      "website": "https://www.oracle.com/in/careers"
+    },
+    {
+      "name": "IBM India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Software Engineer", "Cloud Engineer", "AI Engineer"],
+      "required_skills": ["Java", "Python", "Cloud", "AI", "Databases"],
+      "website": "https://www.ibm.com/in-en/employment"
+    },
+    {
+      "name": "Cisco India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Software Engineer", "Network Engineer", "Cybersecurity Engineer"],
+      "required_skills": ["Python", "Networking", "Cybersecurity", "Linux", "DSA"],
+      "website": "https://jobs.cisco.com"
+    },
+    {
+      "name": "Intel India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Software Engineer", "Systems Engineer", "AI Engineer"],
+      "required_skills": ["C++", "Python", "Embedded Systems", "AI", "Problem Solving"],
+      "website": "https://jobs.intel.com"
+    }
+  ],
+
+  "Finance & Consulting": [
+    {
+      "name": "JPMorgan Chase India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Software Engineer", "Technology Analyst", "Quant Analyst"],
+      "required_skills": ["Python", "SQL", "Finance Basics", "Communication", "Data Structures"],
+      "website": "https://careers.jpmorgan.com"
+    },
+    {
+      "name": "Goldman Sachs India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Engineering Analyst", "Financial Analyst"],
+      "required_skills": ["Python", "Finance", "Excel", "Problem Solving"],
+      "website": "https://www.goldmansachs.com/careers"
+    },
+    {
+      "name": "Wells Fargo India",
+      "level": "Mid Tier",
+      "availability_in_india": true,
+      "roles": ["Technology Analyst", "Finance Associate"],
+      "required_skills": ["SQL", "Finance Basics", "Communication", "Excel"],
+      "website": "https://www.wellsfargo.com/about/careers"
+    },
+    {
+      "name": "Deloitte India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Business Analyst", "Consultant", "Technology Analyst"],
+      "required_skills": ["SQL", "Excel", "Consulting", "Communication", "Presentation"],
+      "website": "https://www2.deloitte.com/in/en/careers"
+    },
+    {
+      "name": "EY India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Risk Analyst", "Consultant", "Business Analyst"],
+      "required_skills": ["Finance", "Excel", "Communication", "Analytical Thinking"],
+      "website": "https://www.ey.com/en_in/careers"
+    },
+    {
+      "name": "KPMG India",
+      "level": "Top Tier",
+      "availability_in_india": true,
+      "roles": ["Business Analyst", "Consultant", "Risk Advisor"],
+      "required_skills": ["Finance", "Excel", "Audit Basics", "Communication"],
+      "website": "https://home.kpmg/in/en/home/careers.html"
+    }
+  ]
+}

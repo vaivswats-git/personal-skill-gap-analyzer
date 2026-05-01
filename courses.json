@@ -1,0 +1,166 @@
+{
+  "Software Engineering": {
+    "Python Programming": {
+      "course_name": "Python for Everybody",
+      "link": "https://www.coursera.org/specializations/python"
+    },
+    "Java Development": {
+      "course_name": "Java Programming Masterclass",
+      "link": "https://www.youtube.com/results?search_query=java+full+course"
+    },
+    "Data Structures & Algorithms": {
+      "course_name": "DSA Full Course",
+      "link": "https://www.geeksforgeeks.org/data-structures/"
+    },
+    "SQL": {
+      "course_name": "SQL for Data Science",
+      "link": "https://www.coursera.org/learn/sql-for-data-science"
+    },
+    "Git & GitHub": {
+      "course_name": "Git & GitHub Crash Course",
+      "link": "https://www.youtube.com/watch?v=RGOj5yH7evk"
+    },
+    "System Design": {
+      "course_name": "System Design Basics",
+      "link": "https://www.educative.io/courses/grokking-the-system-design-interview"
+    }
+  },
+
+  "Data Science": {
+    "Python for Data Science": {
+      "course_name": "Python for Data Science",
+      "link": "https://www.coursera.org/learn/python-for-applied-data-science-ai"
+    },
+    "Machine Learning": {
+      "course_name": "Machine Learning by Andrew Ng",
+      "link": "https://www.coursera.org/learn/machine-learning"
+    },
+    "Statistics": {
+      "course_name": "Statistics with Python",
+      "link": "https://www.coursera.org/specializations/statistics-with-python"
+    },
+    "Pandas": {
+      "course_name": "Pandas Tutorial",
+      "link": "https://www.youtube.com/watch?v=vmEHCJofslg"
+    },
+    "Data Visualization": {
+      "course_name": "Data Visualization",
+      "link": "https://www.coursera.org/specializations/data-visualization"
+    }
+  },
+
+  "Cybersecurity": {
+    "Networking Basics": {
+      "course_name": "Computer Networking Basics",
+      "link": "https://www.youtube.com/watch?v=qiQR5rTSshw"
+    },
+    "Linux Security": {
+      "course_name": "Linux Essentials",
+      "link": "https://www.edx.org/learn/linux"
+    },
+    "Ethical Hacking": {
+      "course_name": "Ethical Hacking Bootcamp",
+      "link": "https://www.youtube.com/results?search_query=ethical+hacking+full+course"
+    },
+    "Python Security Tools": {
+      "course_name": "Google Cybersecurity Certificate",
+      "link": "https://www.coursera.org/professional-certificates/google-cybersecurity"
+    },
+    "Penetration Testing": {
+      "course_name": "Penetration Testing Course",
+      "link": "https://www.youtube.com/results?search_query=penetration+testing+course"
+    }
+  },
+
+  "Finance & Consulting": {
+    "Excel for Finance": {
+      "course_name": "Excel Skills for Business",
+      "link": "https://www.coursera.org/specializations/excel"
+    },
+    "Financial Analysis": {
+      "course_name": "Corporate Finance Essentials",
+      "link": "https://www.coursera.org/learn/wharton-finance"
+    },
+    "Business Analytics": {
+      "course_name": "Business Analytics",
+      "link": "https://www.coursera.org/specializations/business-analytics"
+    },
+    "SQL": {
+      "course_name": "SQL for Analysts",
+      "link": "https://www.coursera.org/learn/sql-for-data-science"
+    },
+    "Consulting Skills": {
+      "course_name": "Consulting Toolkit",
+      "link": "https://www.coursera.org/"
+    }
+  },
+
+  "Digital Marketing": {
+    "SEO": {
+      "course_name": "SEO Specialization",
+      "link": "https://www.coursera.org/specializations/seo"
+    },
+    "SEM": {
+      "course_name": "Google Ads Certification",
+      "link": "https://skillshop.withgoogle.com/"
+    },
+    "Social Media Marketing": {
+      "course_name": "Social Media Marketing",
+      "link": "https://www.coursera.org/specializations/social-media-marketing"
+    },
+    "Google Ads": {
+      "course_name": "Google Ads Masterclass",
+      "link": "https://skillshop.withgoogle.com/"
+    },
+    "Content Strategy": {
+      "course_name": "Content Marketing",
+      "link": "https://academy.hubspot.com/courses/content-marketing"
+    }
+  },
+
+  "Graphic Design": {
+    "Adobe Photoshop": {
+      "course_name": "Adobe Photoshop Essentials",
+      "link": "https://www.youtube.com/results?search_query=photoshop+full+course"
+    },
+    "Illustrator": {
+      "course_name": "Adobe Illustrator Masterclass",
+      "link": "https://www.youtube.com/results?search_query=adobe+illustrator+tutorial"
+    },
+    "Brand Design": {
+      "course_name": "Brand Design",
+      "link": "https://www.coursera.org/learn/brand-management"
+    },
+    "Typography": {
+      "course_name": "Typography Basics",
+      "link": "https://www.skillshare.com/"
+    },
+    "Creative Design": {
+      "course_name": "Graphic Design Masterclass",
+      "link": "https://www.youtube.com/results?search_query=graphic+design+full+course"
+    }
+  },
+
+  "UI/UX Design": {
+    "Figma": {
+      "course_name": "Figma UI UX Design",
+      "link": "https://www.youtube.com/watch?v=jwCmIBJ8Jtc"
+    },
+    "Wireframing": {
+      "course_name": "UX Wireframing",
+      "link": "https://www.coursera.org/professional-certificates/google-ux-design"
+    },
+    "UX Research": {
+      "course_name": "UX Research Fundamentals",
+      "link": "https://www.interaction-design.org/courses"
+    },
+    "Adobe XD": {
+      "course_name": "Adobe XD Guide",
+      "link": "https://www.youtube.com/results?search_query=adobe+xd+tutorial"
+    },
+    "Prototyping": {
+      "course_name": "UI Prototyping",
+      "link": "https://www.coursera.org/"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "Software Engineering": {
+    "required_skills": ["Python", "Java", "SQL", "DSA", "Git", "Problem Solving"]
+  },
+  "Data Science": {
+    "required_skills": ["Python", "Machine Learning", "SQL", "Statistics", "Pandas"]
+  },
+  "Cybersecurity": {
+    "required_skills": ["Networking", "Linux", "Security Tools", "Python", "Ethical Hacking"]
+  },
+  "Finance & Consulting": {
+    "required_skills": ["Excel", "Finance", "SQL", "Communication", "Analytical Thinking"]
+  },
+  "Digital Marketing": {
+    "required_skills": ["SEO", "SEM", "Social Media", "Content Strategy", "Marketing"]
+  },
+  "Graphic Design": {
+    "required_skills": ["Photoshop", "Illustrator", "Creativity", "Branding", "UI Basics"]
+  },
+  "UI/UX Design": {
+    "required_skills": ["Figma", "Wireframing", "User Research", "Adobe XD", "Creativity"]
+  },
+  "Human Resources": {
+    "required_skills": ["Recruitment", "Communication", "Leadership", "Employee Relations"]
+  },
+  "Sales & Business Development": {
+    "required_skills": ["Negotiation", "Sales", "Presentation", "Communication"]
+  },
+  "Content Writing": {
+    "required_skills": ["Writing", "SEO", "Research", "Creativity"]
+  },
+  "Teaching & Education": {
+    "required_skills": ["Subject Knowledge", "Communication", "Presentation", "Patience"]
+  },
+  "Healthcare & Nursing": {
+    "required_skills": ["Patient Care", "Medical Knowledge", "Communication", "Empathy"]
+  },
+  "Law & Compliance": {
+    "required_skills": ["Legal Research", "Documentation", "Communication", "Critical Thinking"]
+  },
+  "Hotel Management": {
+    "required_skills": ["Customer Service", "Management", "Communication", "Hospitality"]
+  },
+  "Aviation & Cabin Crew": {
+    "required_skills": ["Communication", "Customer Service", "Safety Training", "Presentation"]
+  },
+  "Banking": {
+    "required_skills": ["Finance", "Excel", "Customer Handling", "Analytical Skills"]
+  },
+  "Journalism & Media": {
+    "required_skills": ["Writing", "Communication", "Research", "Public Speaking"]
+  },
+  "Event Management": {
+    "required_skills": ["Organization", "Leadership", "Creativity", "Communication"]
+  },
+  "Fashion Design": {
+    "required_skills": ["Creativity", "Sketching", "Textiles", "Trend Analysis"]
+  },
+  "Animation & Video Editing": {
+    "required_skills": ["Premiere Pro", "After Effects", "Creativity", "Storytelling"]
+  },
+  "Photography": {
+    "required_skills": ["Camera Skills", "Editing", "Creativity", "Lighting"]
+  },
+  "Government Jobs": {
+    "required_skills": ["Aptitude", "General Knowledge", "Reasoning", "Discipline"]
+  },
+  "Entrepreneurship": {
+    "required_skills": ["Leadership", "Finance", "Marketing", "Problem Solving"]
+  },
+  "Mechanical Engineering": {
+    "required_skills": ["CAD", "Mechanical Design", "Manufacturing", "Problem Solving"]
+  },
+  "Civil Engineering": {
+    "required_skills": ["AutoCAD", "Structural Analysis", "Construction Management"]
+  },
+  "Electrical Engineering": {
+    "required_skills": ["Circuit Design", "MATLAB", "Power Systems"]
+  },
+  "Biotechnology": {
+    "required_skills": ["Biology", "Research", "Lab Work", "Genetics"]
+  },
+  "Psychology & Counseling": {
+    "required_skills": ["Empathy", "Communication", "Counseling", "Analysis"]
+  },
+  "Social Work": {
+    "required_skills": ["Empathy", "Community Outreach", "Communication"]
+  },
+  "Public Relations": {
+    "required_skills": ["Communication", "Brand Management", "Media Relations"]
+  }
+}
