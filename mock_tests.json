@@ -1,0 +1,213 @@
+{
+  "Mass Hiring Tech": [
+    {
+      "question": "Which data structure follows FIFO?",
+      "options": ["Stack", "Queue", "Tree", "Graph"],
+      "answer": "Queue"
+    },
+    {
+      "question": "What is 25% of 200?",
+      "options": ["25", "50", "75", "100"],
+      "answer": "50"
+    },
+    {
+      "question": "Which keyword defines a function in Python?",
+      "options": ["func", "define", "def", "function"],
+      "answer": "def"
+    },
+    {
+      "question": "Choose the synonym of 'Reluctant'.",
+      "options": ["Happy", "Fast", "Hesitant", "Willing"],
+      "answer": "Hesitant"
+    },
+    {
+      "question": "Which SQL command retrieves data?",
+      "options": ["GET", "SHOW", "SELECT", "FETCH"],
+      "answer": "SELECT"
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12"
+    },
+    {
+      "question": "Which is an operating system?",
+      "options": ["Linux", "HTML", "Python", "SQL"],
+      "answer": "Linux"
+    },
+    {
+      "question": "Find next term: 3, 6, 12, 24, ?",
+      "options": ["36", "48", "60", "72"],
+      "answer": "48"
+    },
+    {
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Core Processing Unit", "Computer Process Unit", "Central Program Unit"],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "Which language is primarily used for web styling?",
+      "options": ["HTML", "Python", "CSS", "Java"],
+      "answer": "CSS"
+    }
+  ],
+
+  "Top Product Tech": [
+    {
+      "question": "What is time complexity of binary search?",
+      "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+      "answer": "O(log n)"
+    },
+    {
+      "question": "Which data structure follows LIFO?",
+      "options": ["Queue", "Stack", "Graph", "Array"],
+      "answer": "Stack"
+    },
+    {
+      "question": "What does API stand for?",
+      "options": ["Application Programming Interface", "Applied Program Interface", "Advanced Programming Integration", "Application Personal Internet"],
+      "answer": "Application Programming Interface"
+    },
+    {
+      "question": "Which database is NoSQL?",
+      "options": ["MySQL", "Oracle", "MongoDB", "PostgreSQL"],
+      "answer": "MongoDB"
+    },
+    {
+      "question": "Which algorithm is best for shortest path?",
+      "options": ["Dijkstra", "Bubble Sort", "Merge Sort", "Linear Search"],
+      "answer": "Dijkstra"
+    },
+    {
+      "question": "What is recursion?",
+      "options": ["Loop", "Function calling itself", "Sorting", "Condition"],
+      "answer": "Function calling itself"
+    },
+    {
+      "question": "Which cloud platform is popular?",
+      "options": ["AWS", "Photoshop", "Linux", "Excel"],
+      "answer": "AWS"
+    },
+    {
+      "question": "What is output of 2**3 in Python?",
+      "options": ["6", "8", "9", "12"],
+      "answer": "8"
+    },
+    {
+      "question": "Which sorting is most efficient on average?",
+      "options": ["Bubble Sort", "Quick Sort", "Selection Sort", "Insertion Sort"],
+      "answer": "Quick Sort"
+    },
+    {
+      "question": "Which is essential for system design?",
+      "options": ["Scalability", "Photoshop", "Drawing", "Typing"],
+      "answer": "Scalability"
+    }
+  ],
+
+  "Finance Tech": [
+    {
+      "question": "What does ROI stand for?",
+      "options": ["Return on Investment", "Rate on Income", "Revenue on Investment", "Return on Income"],
+      "answer": "Return on Investment"
+    },
+    {
+      "question": "Which tool is most used in finance?",
+      "options": ["Excel", "Photoshop", "Figma", "Canva"],
+      "answer": "Excel"
+    },
+    {
+      "question": "Which SQL command filters records?",
+      "options": ["GROUP", "ORDER", "WHERE", "SHOW"],
+      "answer": "WHERE"
+    },
+    {
+      "question": "Which skill is vital for consulting?",
+      "options": ["Communication", "Drawing", "Photography", "Animation"],
+      "answer": "Communication"
+    },
+    {
+      "question": "What is GDP?",
+      "options": ["Gross Domestic Product", "General Data Processing", "Global Development Program", "Growth Data Plan"],
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "Which field analyzes investments?",
+      "options": ["Finance", "Graphic Design", "Law", "Animation"],
+      "answer": "Finance"
+    },
+    {
+      "question": "What is diversification?",
+      "options": ["Risk spreading", "Risk increasing", "Single investment", "Tax planning"],
+      "answer": "Risk spreading"
+    },
+    {
+      "question": "Which company is known for finance recruitment?",
+      "options": ["JPMorgan", "Instagram", "Netflix", "Spotify"],
+      "answer": "JPMorgan"
+    },
+    {
+      "question": "Which is important for analysts?",
+      "options": ["Analytical Thinking", "Sketching", "Video Editing", "Painting"],
+      "answer": "Analytical Thinking"
+    },
+    {
+      "question": "Which presentation tool is common?",
+      "options": ["PowerPoint", "Premiere Pro", "After Effects", "VS Code"],
+      "answer": "PowerPoint"
+    }
+  ],
+
+  "Creative & Marketing": [
+    {
+      "question": "SEO stands for?",
+      "options": ["Search Engine Optimization", "Search Evaluation Output", "System Engine Optimization", "Sales Engine Optimization"],
+      "answer": "Search Engine Optimization"
+    },
+    {
+      "question": "Which platform is ideal for professional networking?",
+      "options": ["LinkedIn", "Snapchat", "Pinterest", "WhatsApp"],
+      "answer": "LinkedIn"
+    },
+    {
+      "question": "Which design tool is common?",
+      "options": ["Figma", "Excel", "SQL", "Python"],
+      "answer": "Figma"
+    },
+    {
+      "question": "What is branding?",
+      "options": ["Company identity", "Coding", "Finance", "Legal process"],
+      "answer": "Company identity"
+    },
+    {
+      "question": "Which is crucial in sales?",
+      "options": ["Negotiation", "Programming", "CAD", "Lab work"],
+      "answer": "Negotiation"
+    },
+    {
+      "question": "Which software edits graphics?",
+      "options": ["Photoshop", "MySQL", "Python", "AWS"],
+      "answer": "Photoshop"
+    },
+    {
+      "question": "What drives social media growth?",
+      "options": ["Content Strategy", "SQL", "Hardware", "Networking"],
+      "answer": "Content Strategy"
+    },
+    {
+      "question": "Which is key in PR?",
+      "options": ["Media Relations", "Coding", "Circuit Design", "Finance"],
+      "answer": "Media Relations"
+    },
+    {
+      "question": "What is consumer psychology?",
+      "options": ["Understanding buyer behavior", "Programming", "Mechanical design", "Law"],
+      "answer": "Understanding buyer behavior"
+    },
+    {
+      "question": "Which is vital in creative fields?",
+      "options": ["Creativity", "Accounting", "Networking", "Civil Design"],
+      "answer": "Creativity"
+    }
+  ]
+}
